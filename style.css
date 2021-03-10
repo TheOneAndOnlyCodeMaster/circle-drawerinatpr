@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image: url(cool-backgrounds.jpeg);
+    background-size: cover;
+  }
+  #myCanvas{
+    background-color: white;
+  }
